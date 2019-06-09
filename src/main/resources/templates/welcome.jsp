@@ -9,6 +9,6 @@
 
 <body>
 Welcome ${name }!! <br/> <br/>
-<a href="/product">Click Here</a> to view the available products.
+<a href="/products">Click Here</a> to view the available products.
 </body>
 </html>
